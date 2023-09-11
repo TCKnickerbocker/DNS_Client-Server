@@ -1,0 +1,5 @@
+www.google.com,142.250.191.164
+www.apple.com,184.84.218.234
+sjkndfnvjkvn.com,Host not found
+www.test.com,67.225.146.248
+www.fakewebsitejksnnvl.com,Host not found
